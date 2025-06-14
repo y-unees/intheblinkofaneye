@@ -22,12 +22,16 @@ The site highlights the scale and speed of modern cyber threats using striking s
 /project-root
 │
 ├── index.html # Main HTML file
+
 ├── styles.css # Styling with responsive media queries
+
 │
+
 ├── /images # Image assets (infographics, video thumbnails)
+
 │ ├── images
+
 │ ├── videos
-│ └── 
 
 ## 🧠 Technologies Used
 
